@@ -1,0 +1,42 @@
+nav {
+    background-color: steelblue;
+    padding: 10px;
+}
+nav a {
+    color: white;
+    display: block;
+    padding: 20px;
+}
+h1 {
+    color: steelblue;
+}
+img {
+    width: 150px;
+    height: auto;
+    border: 1px solid steelblue;
+    padding: 2px;
+    box-shadow: 0 0 30px gray;
+}
+P {
+    padding: 0;
+}
+main {
+    max-width: 840px;;
+}
+aside {
+    margin: 1em;
+    border: 1px solid rgba(0, 0, 0, 0.2); /* 1 */
+    padding: 1em;
+    background-color: burlywood;
+    color: #042506;
+    text-align: center;
+}
+aside img {
+    width: 200px;
+    height: auto;
+}
+footer {
+    margin-top: 1em;
+    border-top: 5px solid #042506;
+    text-align: center;
+}
