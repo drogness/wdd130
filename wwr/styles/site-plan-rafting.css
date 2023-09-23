@@ -21,8 +21,8 @@ body {
 } 
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: var('Corben', cursive);
-    color: var(0C2C5Fff);
+    font-family: var(--heading-font);
+    color: var(--primary-color);
 }
 
 header {
@@ -53,5 +53,5 @@ nav a:link, nav a:visited {
 
 nav a:hover {
     color: var(--nav-hover-link-color)
-    var(--nav-hover-background-color)
+
 }
