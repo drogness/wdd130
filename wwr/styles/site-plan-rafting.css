@@ -55,3 +55,8 @@ nav a:hover {
     color: var(--nav-hover-link-color)
 
 }
+
+
+main img {
+    float: right;
+}
